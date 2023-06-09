@@ -13,7 +13,7 @@ keypoints:
 - "Kendskab til NLTK"
 ---
 
-# Import biblioteker!!
+# Importer biblioteker
 
 ```python
 import urllib.request
